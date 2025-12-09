@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banking Icons Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .icon-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .icon-card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .icon-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+            cursor: pointer;
+        }
+
+        .icon-card img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-bottom: 12px;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #10b981;
+            color: white;
+            padding: 16px 24px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            font-weight: 500;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .icon-name {
+            text-align: center;
+            font-size: 0.9em;
+            color: #333;
+            font-weight: 500;
+            word-break: break-word;
+        }
+
+        @media (max-width: 768px) {
+            .icon-grid {
+                grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+                gap: 15px;
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 2em;
+                margin-bottom: 30px;
+            }
+
+            .icon-card {
+                padding: 15px;
+            }
+
+            .icon-card img {
+                width: 60px;
+                height: 60px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏦 Banking Icons Gallery</h1>
+        <div class="icon-grid">
+            <div class="icon-card" onclick="copyIconUrl('Absa.svg')">
+                <img src="Absa.svg" alt="Absa">
+                <div class="icon-name">Absa</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Access.svg')">
+                <img src="Access.svg" alt="Access">
+                <div class="icon-name">Access</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Africanbank.svg')">
+                <img src="Africanbank.svg" alt="African Bank">
+                <div class="icon-name">African Bank</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('bank-zero.svg')">
+                <img src="bank-zero.svg" alt="Bank Zero">
+                <div class="icon-name">Bank Zero</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Bank.svg')">
+                <img src="Bank.svg" alt="Bank">
+                <div class="icon-name">Bank</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('bidvest.svg')">
+                <img src="bidvest.svg" alt="Bidvest">
+                <div class="icon-name">Bidvest</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Call-Center.svg')">
+                <img src="Call-Center.svg" alt="Call Center">
+                <div class="icon-name">Call Center</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Capitec-1.svg')">
+                <img src="Capitec-1.svg" alt="Capitec 1">
+                <div class="icon-name">Capitec 1</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Capitec-2.svg')">
+                <img src="Capitec-2.svg" alt="Capitec 2">
+                <div class="icon-name">Capitec 2</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Capitec-Business-1.svg')">
+                <img src="Capitec-Business-1.svg" alt="Capitec Business">
+                <div class="icon-name">Capitec Business</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('coffin.svg')">
+                <img src="coffin.svg" alt="Coffin">
+                <div class="icon-name">Coffin</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('discovery.svg')">
+                <img src="discovery.svg" alt="Discovery">
+                <div class="icon-name">Discovery</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('finbond.svg')">
+                <img src="finbond.svg" alt="Finbond">
+                <div class="icon-name">Finbond</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('fnb.svg')">
+                <img src="fnb.svg" alt="FNB">
+                <div class="icon-name">FNB</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Investec.svg')">
+                <img src="Investec.svg" alt="Investec">
+                <div class="icon-name">Investec</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('investor.svg')">
+                <img src="investor.svg" alt="Investor">
+                <div class="icon-name">Investor</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('nedbank-1.svg')">
+                <img src="nedbank-1.svg" alt="Nedbank 1">
+                <div class="icon-name">Nedbank 1</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('nedbank-2.svg')">
+                <img src="nedbank-2.svg" alt="Nedbank 2">
+                <div class="icon-name">Nedbank 2</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('phone.svg')">
+                <img src="phone.svg" alt="Phone">
+                <div class="icon-name">Phone</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('resbank.svg')">
+                <img src="resbank.svg" alt="Reserve Bank">
+                <div class="icon-name">Reserve Bank</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('robot.svg')">
+                <img src="robot.svg" alt="Robot">
+                <div class="icon-name">Robot</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('sasfin.svg')">
+                <img src="sasfin.svg" alt="Sasfin">
+                <div class="icon-name">Sasfin</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('standardbank.svg')">
+                <img src="standardbank.svg" alt="Standard Bank">
+                <div class="icon-name">Standard Bank</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Tyme-1.svg')">
+                <img src="Tyme-1.svg" alt="Tyme 1">
+                <div class="icon-name">Tyme 1</div>
+            </div>
+            <div class="icon-card" onclick="copyIconUrl('Tyme-2.svg')">
+                <img src="Tyme-2.svg" alt="Tyme 2">
+                <div class="icon-name">Tyme 2</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="toast" class="toast">URL copied to clipboard!</div>
+
+    <script>
+        function copyIconUrl(iconFileName) {
+            const currentUrl = window.location.href;
+            const baseUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/') + 1);
+            const iconUrl = baseUrl + iconFileName;
+
+            navigator.clipboard.writeText(iconUrl).then(() => {
+                showToast();
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+            });
+        }
+
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 2000);
+        }
+    </script>
+</body>
+</html>
