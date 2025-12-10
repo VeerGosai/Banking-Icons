@@ -3,8 +3,8 @@
 
 <svg
    xml:space="preserve"
-   width="500"
-   height="500"
+   width="700"
+   height="700"
    version="1.1"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    viewBox="0 0 4819.921 4819.9208"
@@ -24,15 +24,15 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="in"
-   inkscape:zoom="0.85624382"
-   inkscape:cx="131.38781"
-   inkscape:cy="268.61508"
+   inkscape:zoom="0.46765459"
+   inkscape:cx="225.59385"
+   inkscape:cy="238.42383"
    inkscape:window-width="1472"
-   inkscape:window-height="801"
+   inkscape:window-height="794"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg8" />
+   inkscape:current-layer="Layer_x0020_1" />
  <defs
    id="defs1">
   <style
@@ -60,7 +60,8 @@
   <metadata
    id="CorelCorpID_0Corel-Layer" />
   <g
-   id="Access_x0020_bank_x0020_PLC">
+   id="Access_x0020_bank_x0020_PLC"
+   transform="matrix(0.71428572,0,0,0.71428572,729.87373,688.56013)">
    
    
    
@@ -74,10 +75,10 @@
    id="g8"
    transform="matrix(4.3661472,0,0,4.3661472,144.59763,0)"><polygon
      class="fil2"
-     points="519.98,1103.74 1038.92,584.8 1038.45,584.33 454.11,0 454.11,89.69 948.76,584.33 948.95,584.52 520.49,1012.98 519.98,1012.46 91.8,584.33 91.42,583.96 301.62,373.76 210.38,373.76 0,584.14 0.19,584.33 519.79,1103.93 "
+     points="454.11,0 454.11,89.69 948.76,584.33 948.95,584.52 520.49,1012.98 519.98,1012.46 91.8,584.33 91.42,583.96 301.62,373.76 210.38,373.76 0,584.14 0.19,584.33 519.79,1103.93 519.98,1103.74 1038.92,584.8 1038.45,584.33 "
      id="polygon7" /><polygon
      class="fil2"
-     points="453.93,151.42 453.93,241.11 797.34,584.52 520.68,861.18 243.78,584.33 243.4,583.96 453.6,373.76 362.37,373.76 151.98,584.14 152.17,584.33 474.85,907.01 519.98,952.14 565.85,906.31 887.31,584.8 "
+     points="520.68,861.18 243.78,584.33 243.4,583.96 453.6,373.76 362.37,373.76 151.98,584.14 152.17,584.33 474.85,907.01 519.98,952.14 565.85,906.31 887.31,584.8 453.93,151.42 453.93,241.11 797.34,584.52 "
      id="polygon8" /><path
      class="fil2"
      d="M 735.84,584.33 564.49,412.79 518.89,367.19 474.05,412.03 301.8,584.14 v 0 l 172.34,172.34 45.13,45.12 45.78,-45.83 171.26,-170.98 -0.47,-0.47 z M 520.06,710.99 393.41,584.33 393.03,583.95 519.35,457.63 646.01,584.28 v 0 l -125.95,126.7 z"

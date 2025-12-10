@@ -9,8 +9,8 @@
    viewBox="0 0 499.99998 500"
    xml:space="preserve"
    sodipodi:docname="Capitec-1.svg"
-   width="500"
-   height="500"
+   width="700"
+   height="700"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.46074562"
-   inkscape:cx="676.07805"
-   inkscape:cy="377.64873"
+   inkscape:zoom="0.44068049"
+   inkscape:cx="622.90028"
+   inkscape:cy="604.74654"
    inkscape:window-width="1472"
-   inkscape:window-height="801"
+   inkscape:window-height="794"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g57" />
+   inkscape:current-layer="Layer_1" />
 <style
    type="text/css"
    id="style1">
@@ -51,20 +51,21 @@
 	.st10{clip-path:url(#SVGID_23_);}
 	.st11{clip-path:url(#SVGID_25_);fill:url(#SVGID_26_);}
 </style>
-<g
-   id="g57">
+<rect
+   style="fill:#ffffff;stroke-width:14.2857"
+   id="rect1"
+   width="536.50793"
+   height="515.43658"
+   x="-11.346088"
+   y="-8.1043491" /><g
+   id="g57"
+   transform="matrix(0.71428451,0,0,0.71428451,114.26577,124.84291)">
 	
 	
 	
-	<rect
-   style="fill:#ffffff;stroke-width:20;fill-opacity:1"
-   id="rect2"
-   width="731.4231"
-   height="785.68298"
-   x="-56.430271"
-   y="-80.304619" /><g
+	<g
    id="g58"
-   transform="matrix(5.4945148,0,0,5.4945148,-9.3406754,111.53823)"><g
+   transform="matrix(5.4945148,0,0,5.4945148,-69.312858,36.978219)"><g
      id="g5">
 		<defs
    id="defs1">
@@ -72,11 +73,7 @@
    id="SVGID_1_"
    d="m 34.5,1.5 v 13.8 c 0,4.9 4,8.9 8.9,8.9 h 17.1 c 6.1,0 11.1,5 11.1,11.2 v 13 c 11.9,-2 21,-11.7 21,-23.2 C 92.6,12.2 81.2,1.6 67.2,1.6 H 34.5 Z" />
 		</defs>
-<rect
-   width="500"
-   height="500"
-   fill="white"
-   id="rect1" />
+
 		<clipPath
    id="SVGID_2_">
 			<use
@@ -116,7 +113,7 @@
 		</linearGradient>
 		<polygon
    class="st1"
-   points="24.3,3.8 89.7,-11.3 103,45.9 37.5,61.1 "
+   points="103,45.9 37.5,61.1 24.3,3.8 89.7,-11.3 "
    clip-path="url(#SVGID_2_)"
    id="polygon5"
    style="fill:url(#SVGID_3_)" />
@@ -274,7 +271,7 @@
 					</linearGradient>
 					<polygon
    class="st5"
-   points="30,15.5 69.8,6.3 76.3,34.2 36.4,43.5 "
+   points="76.3,34.2 36.4,43.5 30,15.5 69.8,6.3 "
    clip-path="url(#SVGID_10_)"
    id="polygon22"
    style="fill:url(#SVGID_11_)" />

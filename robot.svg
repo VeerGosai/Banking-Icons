@@ -3,9 +3,9 @@
    version="1.1"
    viewBox="-5 -10 500 500"
    id="svg5"
-   sodipodi:docname="noun-robot-7739991.svg"
-   width="500"
-   height="500"
+   sodipodi:docname="robot.svg"
+   width="700"
+   height="700"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,17 +24,21 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.45192203"
      inkscape:cx="-111.74494"
-     inkscape:cy="413.78819"
+     inkscape:cy="412.68181"
      inkscape:window-width="1472"
-     inkscape:window-height="801"
+     inkscape:window-height="794"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
-  <rect width="500" height="500" fill="white"/>
-<g
+  <rect
+     width="500"
+     height="500"
+     fill="white"
+     id="rect1" />
+  <g
      id="g5"
-     transform="matrix(7.9365079,0,0,7.9365079,-151.8254,-156.41746)">
+     transform="matrix(5.6689342,0,0,5.6689342,-38.446711,-36.298185)">
     <path
        d="m 60,58.5 c 2.6289,0 5,-1.582 6.0039,-4.0117 1.0078,-2.4297 0.45312,-5.2266 -1.4062,-7.0859 -1.85932,-1.8593 -4.6562,-2.4141 -7.0859,-1.4062 -2.4297,1.0039 -4.0117,3.375 -4.0117,6.0039 0.0039,3.5898 2.9102,6.4961 6.5,6.5 z m 0,-10 c 1.4141,0 2.6914,0.85156 3.2344,2.1602 0.53906,1.3086 0.24219,2.8125 -0.75781,3.8164 -1.0039,1 -2.5078,1.2969 -3.8164,0.75781 -1.3086,-0.54297 -2.1602,-1.8203 -2.1602,-3.2344 0.0039,-1.9336 1.5664,-3.4961 3.5,-3.5 z"
        id="path1" />

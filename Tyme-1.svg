@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="500"
-   height="500"
-   viewBox="0 0 500 500"
+   width="700"
+   height="700"
+   viewBox="-100 -100 700 700"
    version="1.1"
    id="svg30"
    sodipodi:docname="Tyme-1.svg"
@@ -23,11 +23,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.0894475"
-     inkscape:cx="300.61108"
-     inkscape:cy="74.349611"
+     inkscape:zoom="0.81000191"
+     inkscape:cx="361.11026"
+     inkscape:cy="442.59155"
      inkscape:window-width="1472"
-     inkscape:window-height="801"
+     inkscape:window-height="794"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
@@ -155,7 +155,14 @@
          id="stop20" />
     </linearGradient>
   </defs>
-<rect width="500" height="500" fill="white"/>
+  <rect
+     width="700"
+     height="700"
+     fill="#ffffff"
+     id="rect1"
+     x="-100"
+     y="-100"
+     style="stroke-width:1.4" />
   <title
      id="title20">tymebank-logo</title>
   <g

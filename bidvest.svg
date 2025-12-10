@@ -9,8 +9,8 @@
    viewBox="-153 -46 500 500"
    xml:space="preserve"
    sodipodi:docname="bidvest.svg"
-   width="500"
-   height="500"
+   width="700"
+   height="700"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.77352682"
-   inkscape:cx="450.53383"
-   inkscape:cy="292.16828"
+   inkscape:zoom="0.37291344"
+   inkscape:cx="422.35002"
+   inkscape:cy="162.23604"
    inkscape:window-width="1472"
-   inkscape:window-height="801"
+   inkscape:window-height="794"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
@@ -41,15 +41,22 @@
 	.st1{fill:#BBBDBF;}
 </style>
 
-<rect width="500" height="500" fill="white"/>
+<rect
+   width="528.73132"
+   height="528.73132"
+   fill="#ffffff"
+   id="rect1"
+   x="-164.72609"
+   y="-55.547169"
+   style="stroke-width:1.05746" />
 <g
    id="g1"
-   transform="matrix(3.2216495,0,0,3.2216495,270.64691,-681.52835)"><path
+   transform="matrix(2.3011782,0,0,2.3011782,221.0335,-423.52025)"><path
      class="st0"
      d="m -25.9,281.9 c 18.7,0 35.2,12.5 35.2,31.2 0,18.7 -16.5,34 -35.2,34 h -105.6 v -65.2 z m 0,-79.2 c 18.7,0 35.5,13.5 35.5,32.2 0,18.7 -16.8,33.7 -35.5,33.7 h -105.6 v -65.9 z"
      id="path1"
      sodipodi:nodetypes="sssccsssscccs" /><polygon
      class="st1"
-     points="-54,230.6 23.7,274.9 -54,319 -54,249.2 "
+     points="-54,249.2 -54,230.6 23.7,274.9 -54,319 "
      id="polygon1" /></g>
 </svg>

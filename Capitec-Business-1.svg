@@ -9,8 +9,8 @@
    viewBox="0 0 499.99998 500"
    xml:space="preserve"
    sodipodi:docname="Capitec-Business-1.svg"
-   width="500"
-   height="500"
+   width="700"
+   height="700"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,11 +26,11 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="1.0162248"
-   inkscape:cx="218.94761"
-   inkscape:cy="114.63999"
+   inkscape:zoom="0.27920464"
+   inkscape:cx="1176.5564"
+   inkscape:cy="134.31009"
    inkscape:window-width="1472"
-   inkscape:window-height="804"
+   inkscape:window-height="794"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
@@ -57,14 +57,14 @@
 	
 	
 	<rect
-   style="fill:#ffffff;stroke-width:20"
-   id="rect2"
-   width="690.79199"
-   height="628.79785"
-   x="-60.026089"
-   y="-91.515182" /><g
+   style="fill:#ffffff;stroke-width:7.32374"
+   id="rect1"
+   width="677.94623"
+   height="565.69897"
+   x="-69.073761"
+   y="-46.049175" /><g
    id="g58"
-   transform="matrix(5.4945148,0,0,5.4945148,-9.3406754,111.53823)"
+   transform="matrix(3.9246468,0,0,3.9246468,64.75667,151.25588)"
    style="fill:#000000;fill-opacity:1;stroke:none"><g
      id="g5"
      style="fill:#000000;fill-opacity:1;stroke:none">
@@ -74,11 +74,7 @@
    id="SVGID_1_"
    d="m 34.5,1.5 v 13.8 c 0,4.9 4,8.9 8.9,8.9 h 17.1 c 6.1,0 11.1,5 11.1,11.2 v 13 c 11.9,-2 21,-11.7 21,-23.2 C 92.6,12.2 81.2,1.6 67.2,1.6 H 34.5 Z" />
 		</defs>
-<rect
-   width="500"
-   height="500"
-   fill="white"
-   id="rect1" />
+
 		<clipPath
    id="SVGID_2_">
 			<use
@@ -116,15 +112,16 @@
    style="stop-color:#C41230"
    id="stop5" />
 		</linearGradient>
-		<polygon
-   class="st1"
-   points="24.3,3.8 89.7,-11.3 103,45.9 37.5,61.1 "
-   clip-path="url(#SVGID_2_)"
-   id="polygon5"
-   style="fill:#000000;fill-opacity:1;stroke:none" />
+		
 	</g><g
-     id="g14"
-     style="fill:#000000;fill-opacity:1;stroke:none">
+     id="g1"><polygon
+       class="st1"
+       points="89.7,-11.3 103,45.9 37.5,61.1 24.3,3.8 "
+       clip-path="url(#SVGID_2_)"
+       id="polygon5"
+       style="fill:#000000;fill-opacity:1;stroke:none" /><g
+       id="g14"
+       style="fill:#000000;fill-opacity:1;stroke:none">
 		<defs
    id="defs5">
 			<path
@@ -193,7 +190,7 @@
    clip-path="url(#SVGID_5_)"
    id="rect14"
    style="fill:#000000;fill-opacity:1;stroke:none" />
-	</g><g
+	</g></g><g
      id="g56"
      style="fill:#000000;fill-opacity:1;stroke:none">
 		<g
@@ -281,7 +278,7 @@
 					</linearGradient>
 					<polygon
    class="st5"
-   points="30,15.5 69.8,6.3 76.3,34.2 36.4,43.5 "
+   points="69.8,6.3 76.3,34.2 36.4,43.5 30,15.5 "
    clip-path="url(#SVGID_10_)"
    id="polygon22"
    style="fill:#000000;fill-opacity:1;stroke:none" />

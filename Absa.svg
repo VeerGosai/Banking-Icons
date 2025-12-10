@@ -5,11 +5,11 @@
    version="1.1"
    id="Layer_1"
    wide="200px"
-   height="500"
-   viewBox="0 0 500 500"
+   height="700"
+   viewBox="-100 -100 700 700"
    xml:space="preserve"
-   sodipodi:docname="ABSA_Group_Limited_Logo.svg"
-   width="500"
+   sodipodi:docname="Absa.svg"
+   width="700"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.28959718"
-   inkscape:cx="467.8913"
-   inkscape:cy="37.983795"
+   inkscape:zoom="0.60746225"
+   inkscape:cx="369.57029"
+   inkscape:cy="214.82816"
    inkscape:window-width="1472"
-   inkscape:window-height="801"
+   inkscape:window-height="794"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
@@ -38,10 +38,14 @@
    id="style1">
 	.st0{fill:#A90C2B;}
 </style>
-<rect width="500" height="500" fill="white"/>
+<rect
+   width="500"
+   height="500"
+   fill="white"
+   id="rect1" />
 <g
    id="g6"
-   transform="scale(2.5)">
+   transform="matrix(3.5,0,0,3.5,-100,-100)">
 	<g
    id="g5">
 		<path
