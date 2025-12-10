@@ -26,11 +26,11 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.72763669"
-   inkscape:cx="188.96793"
-   inkscape:cy="57.721114"
+   inkscape:zoom="1.0162248"
+   inkscape:cx="218.94761"
+   inkscape:cy="114.63999"
    inkscape:window-width="1472"
-   inkscape:window-height="801"
+   inkscape:window-height="804"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
@@ -56,7 +56,13 @@
 	
 	
 	
-	<g
+	<rect
+   style="fill:#ffffff;stroke-width:20"
+   id="rect2"
+   width="690.79199"
+   height="628.79785"
+   x="-60.026089"
+   y="-91.515182" /><g
    id="g58"
    transform="matrix(5.4945148,0,0,5.4945148,-9.3406754,111.53823)"
    style="fill:#000000;fill-opacity:1;stroke:none"><g
@@ -68,7 +74,11 @@
    id="SVGID_1_"
    d="m 34.5,1.5 v 13.8 c 0,4.9 4,8.9 8.9,8.9 h 17.1 c 6.1,0 11.1,5 11.1,11.2 v 13 c 11.9,-2 21,-11.7 21,-23.2 C 92.6,12.2 81.2,1.6 67.2,1.6 H 34.5 Z" />
 		</defs>
-<rect width="500" height="500" fill="white"/>
+<rect
+   width="500"
+   height="500"
+   fill="white"
+   id="rect1" />
 		<clipPath
    id="SVGID_2_">
 			<use

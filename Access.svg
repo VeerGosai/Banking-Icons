@@ -25,14 +25,14 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="in"
    inkscape:zoom="0.85624382"
-   inkscape:cx="115.03733"
-   inkscape:cy="310.65918"
+   inkscape:cx="131.38781"
+   inkscape:cy="268.61508"
    inkscape:window-width="1472"
    inkscape:window-height="801"
    inkscape:window-x="0"
    inkscape:window-y="34"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Access_x0020_bank_x0020_PLC" />
+   inkscape:current-layer="svg8" />
  <defs
    id="defs1">
   <style
@@ -45,7 +45,14 @@
    ]]>
   </style>
  </defs>
-<rect width="500" height="500" fill="white"/>
+<rect
+   width="4868.2168"
+   height="4868.2168"
+   fill="#ffffff"
+   id="rect1"
+   x="0"
+   y="0"
+   style="stroke-width:9.73645" />
  <g
    id="Layer_x0020_1"
    inkscape:label="Layer 1"
