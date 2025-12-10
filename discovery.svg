@@ -32,7 +32,8 @@
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="surface1" />
-  <g
+  <rect width="500" height="500" fill="white"/>
+<g
      id="surface1">
     <path
        style="fill:#28282b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.1023"

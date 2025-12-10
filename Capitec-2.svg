@@ -40,6 +40,7 @@
 			<path id="SVGID_1_" d="M34.5,1.5v13.8c0,4.9,4,8.9,8.9,8.9h17.1c6.1,0,11.1,5,11.1,11.2v13c11.9-2,21-11.7,21-23.2
 				c0-13-11.4-23.6-25.4-23.6H34.5z"/>
 		</defs>
+<rect width="500" height="500" fill="white"/>
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 		</clipPath>

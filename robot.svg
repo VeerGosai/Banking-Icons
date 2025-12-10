@@ -31,7 +31,8 @@
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
-  <g
+  <rect width="500" height="500" fill="white"/>
+<g
      id="g5"
      transform="matrix(7.9365079,0,0,7.9365079,-151.8254,-156.41746)">
     <path
